@@ -1,0 +1,16 @@
+.colors{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    height: 150px;
+    width: 150px;
+}
+.tint{
+    color: black;
+    margin-left: .5em;
+}
+.shade{
+    color: white;
+    margin-left: .5em;
+}

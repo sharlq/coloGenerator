@@ -1,0 +1,49 @@
+.text-box {
+  height: 30px;
+  outline: none;
+  margin-left: 1vw;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.gen {
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  height: 34px;
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: none;
+  background-color: #4179e1;
+}
+
+.R {
+  color: red;
+  border: 1px solid rgba(255, 0, 0, 0.7);
+}
+
+.colors {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+}
+
+.tint {
+  color: black;
+  margin-left: .5em;
+}
+
+.shade {
+  color: white;
+  margin-left: .5em;
+}
+/*# sourceMappingURL=main.css.map */
